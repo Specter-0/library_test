@@ -1,1 +1,1 @@
-from multiplication import Multiplication
+from multiply.multiplication import Multiplication
