@@ -1,8 +1,0 @@
-README.md
-setup.py
-multiplier_test.egg-info/PKG-INFO
-multiplier_test.egg-info/SOURCES.txt
-multiplier_test.egg-info/dependency_links.txt
-multiplier_test.egg-info/top_level.txt
-multiply/__init__.py
-multiply/multiplication.py
