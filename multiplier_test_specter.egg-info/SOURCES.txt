@@ -1,0 +1,8 @@
+README.md
+setup.py
+multiplier_test_specter.egg-info/PKG-INFO
+multiplier_test_specter.egg-info/SOURCES.txt
+multiplier_test_specter.egg-info/dependency_links.txt
+multiplier_test_specter.egg-info/top_level.txt
+multiply-test-specter/__init__.py
+multiply-test-specter/multiplication.py
