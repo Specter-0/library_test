@@ -1,0 +1,8 @@
+README.md
+setup.py
+MultiplierTestSpecterPackage/__init__.py
+MultiplierTestSpecterPackage/multiplication.py
+MultiplierTestSpecterPackage.egg-info/PKG-INFO
+MultiplierTestSpecterPackage.egg-info/SOURCES.txt
+MultiplierTestSpecterPackage.egg-info/dependency_links.txt
+MultiplierTestSpecterPackage.egg-info/top_level.txt
