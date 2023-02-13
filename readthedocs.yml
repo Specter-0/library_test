@@ -17,5 +17,3 @@ formats: all
 python:
   install:
     - requirements: requirements.txt
-
-#a cooment
