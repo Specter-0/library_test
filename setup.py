@@ -12,7 +12,7 @@ DESCRIPTION = 'multiply a number by the given multiplier'
 
 # Setting up
 setup(
-    name="multiplier_test_specter",
+    name="MultiplierTestSpecter",
     version=VERSION,
     author="Specter",
     author_email="<sigurd.thornes@gmail.com>",
