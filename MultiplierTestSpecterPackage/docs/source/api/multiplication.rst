@@ -1,6 +1,6 @@
-.. currentmodule:: medium_multiply.multiplication
+.. currentmodule:: MultiplierTestSpecterPackage.multiplication
 
-.. autoclass:: medium_multiply.Multiplication
+.. autoclass:: MultiplierTestSpecterPackage.Multiplication
     :members:
 
 .. toctree::
