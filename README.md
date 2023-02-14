@@ -1,2 +1,5 @@
 # library_test
-testing making a library
+testing making a library 
+
+don't use it unless your my teacher, its just a function to do the job 
+of the * sign in python lol :)
