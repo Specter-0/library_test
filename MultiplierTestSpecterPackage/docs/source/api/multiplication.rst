@@ -1,6 +1,6 @@
-.. currentmodule:: MultiplierTestSpecterPackage.Multiplication
+.. currentmodule:: multiplication.Multiplication
 
-.. autoclass:: MultiplierTestSpecterPackage.Multiplication
+.. autoclass:: multiplication.Multiplication
     :members:
 
 .. toctree::
