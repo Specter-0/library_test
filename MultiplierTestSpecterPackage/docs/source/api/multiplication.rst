@@ -1,4 +1,4 @@
-.. currentmodule:: MultiplierTestSpecterPackage.multiplication
+.. currentmodule:: MultiplierTestSpecterPackage.Multiplication
 
 .. autoclass:: MultiplierTestSpecterPackage.Multiplication
     :members:
