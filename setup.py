@@ -10,7 +10,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 VERSION = '1.0'
 DESCRIPTION = 'multiply a number by the given multiplier'
 
-# Setting up
+# Setting up 
 setup(
     name="MultiplierTestSpecterPackage",
     version=VERSION,
